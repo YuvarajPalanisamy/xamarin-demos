@@ -104,9 +104,9 @@ If you download the samples using the "Download ZIP" option then please follow t
 | [Calculate](Forms/Calculate) | [Calculate](Android/SampleBrowser/Samples/Calculate) | [Calculate](iOS/SampleBrowser/Samples/Calculate) |
 | [Data Source](Forms/DataSource) | [Data Source](Android/SampleBrowser/Samples/DataSource) | [Data Source](iOS/SampleBrowser/Samples/DataSource) |
 
-## <a name="syncfusion-essential-xamarin-UI-Kit"></a>Syncfusion Xamarin UI Kit:  ##
+## <a name="essential-xamarin-UI-Kit"></a>Essential Xamarin UI Kit:  ##
 
-The Syncfusion item templates extension provides a predefined UI designs for the Xamarin.Forms.
+The Syncfusion Essential Xamarin UI Kit provides a predefined UI designs for the Xamarin.Forms.
 
 Refer [Syncfusion Essential Xamarin UI Kit](https://help.syncfusion.com/xamarin/uikit/gettingstarted) for more details.
 
